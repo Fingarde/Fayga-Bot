@@ -1,0 +1,23 @@
+{
+  "name": "fayga",
+  "version": "0.0.1",
+  "description": "A plugin for Fayga server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fingarde",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fingarde/Fayga-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fingarde/Fayga-Bot/issues"
+  },
+  "homepage": "https://github.com/Fingarde/Fayga-Bot#readme"
+}
