@@ -165,4 +165,4 @@ client.on('message', msg => {
   
 })  
 
-client.login('NDQ1MjA4MDE2MDg2NzYxNDcy.DiJApw.9kRlJjgFg03zt1hiaXqqUncEb-g')
+client.login('mdr')
